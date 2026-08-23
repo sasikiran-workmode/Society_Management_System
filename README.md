@@ -1,7 +1,5 @@
 # Society Management System
 
-A premium full-stack society management platform maintained by **Sasikiran**.
-
 ## Overview
 
 This project helps housing societies run day-to-day operations with modern workflows:
@@ -11,12 +9,6 @@ This project helps housing societies run day-to-day operations with modern workf
 - Complaint lifecycle tracking
 - Asset and service history management
 - Watchman gate log operations
-
-## Live Endpoints
-
-- Frontend: https://society-management-system-vert.vercel.app/showcase
-- Backend API: https://society-management-system-zjlf.onrender.com
-- Repository: https://github.com/sasikiran-workmode/Society-Management-System
 
 ## Tech Stack
 
