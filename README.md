@@ -116,4 +116,4 @@ Contributions are welcome. See `/CONTRIBUTING.md` for development workflow and c
 **Sasikiran**
 
 - GitHub: https://github.com/sasikiran-workmode
-- Repository: https://github.com/sasikiran-workmode/Society-Management-System
+- Repository: https://github.com/sasikiran-workmode/Society_Management_System
