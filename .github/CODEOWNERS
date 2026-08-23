@@ -1,0 +1,17 @@
+# Code Owners
+# These users will be automatically requested for review on PRs
+
+# Global owners
+* @sasikiran-workmode
+
+# Frontend
+/client/ @sasikiran-workmode
+
+# Backend
+/server/ @sasikiran-workmode
+
+# Documentation
+*.md @sasikiran-workmode
+
+# CI/CD
+/.github/ @sasikiran-workmode
